@@ -1,0 +1,23 @@
+{
+  "name": "simplayer-promise",
+  "version": "0.0.1",
+  "description": "Promisfy simple multi platform sound player",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MaxMEllon/simplayer-promise.git"
+  },
+  "author": "maxmellon <maxmellon1994@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaxMEllon/simplayer-promise/issues"
+  },
+  "homepage": "https://github.com/MaxMEllon/simplayer-promise#readme",
+  "dependencies": {
+    "bluebird": "^3.3.5",
+    "simplayer": "0.0.8"
+  }
+}
