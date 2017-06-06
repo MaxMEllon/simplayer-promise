@@ -1,6 +1,6 @@
 {
   "name": "simplayer-promise",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Promisfy simple multi platform sound player",
   "main": "index.js",
   "scripts": {
