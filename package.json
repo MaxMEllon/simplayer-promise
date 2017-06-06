@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/MaxMEllon/simplayer-promise#readme",
   "dependencies": {
-    "bluebird": "^3.3.5",
+    "bluebird": "^3.5.0",
     "simplayer": "0.0.8"
   }
 }
